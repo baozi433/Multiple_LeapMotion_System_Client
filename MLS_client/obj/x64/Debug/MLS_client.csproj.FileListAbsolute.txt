@@ -1,0 +1,13 @@
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\bin\x64\Debug\MLS_client.exe.config
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\bin\x64\Debug\MLS_client.exe
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\bin\x64\Debug\MLS_client.pdb
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\bin\x64\Debug\LeapCSharp.NET4.5.dll
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\bin\x64\Debug\Rug.Osc.dll
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\bin\x64\Debug\Rug.Osc.xml
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.csprojAssemblyReference.cache
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.Properties.Resource.resources
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.csproj.GenerateResource.cache
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.csproj.CoreCompileInputs.cache
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.csproj.CopyComplete
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.exe
+C:\Users\hitldemo\source\repos\MLS_client\MLS_client\obj\x64\Debug\MLS_client.pdb

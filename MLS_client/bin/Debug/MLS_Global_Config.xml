@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<connecteddevice>
+<clientdevice>
+  <!--Configuration of the client device-->
+  <device Name="leapmotion0" Index = "0" Type="LMC">
+     <position>LeftUp</position>
+     <IPaddress>192.168.1.5</IPaddress>
+     <port>12345</port>
+     <mode>HMD</mode>
+  </device>
+  <device Name="leapmotion1" Index = "1" Type="LMC">
+     <position>RightUp</position>
+     <IPaddress>192.168.1.4</IPaddress>
+     <port>12345</port>
+     <mode>HMD</mode>
+  </device>
+  <device Name="kinect1" Index = "2" Type="Kinect">
+     <position> </position>
+     <IPaddress>192.168.1.5</IPaddress>
+     <port>12345</port>
+     <mode> </mode>
+  </device>
+  <device Name="kinect2" Index = "3" Type="Kinect">
+     <position> </position>
+     <IPaddress>192.168.1.4</IPaddress>
+     <port>12345</port>
+     <mode> </mode>
+  </device>
+  <device Name="kinect3" Index = "4" Type="Kinect">
+     <position> </position>
+     <IPaddress>192.168.1.3</IPaddress>
+     <port>12345</port>
+     <mode> </mode>
+  </device>
+  <device Name="kinect4" Index = "5" Type="Kinect">
+     <position> </position>
+     <IPaddress>192.168.1.6</IPaddress>
+     <port>12345</port>
+     <mode> </mode>
+  </device>
+  <device Name="leapmotion2" Index = "6" Type="LMC">
+     <position>LeftDown</position>
+     <IPaddress>192.168.1.3</IPaddress>
+     <port>12345</port>
+     <mode>HMD</mode>
+  </device>
+  <device Name="leapmotion3" Index = "7" Type="LMC">
+     <position>RightDown</position>
+     <IPaddress>192.168.1.6</IPaddress>
+     <port>12345</port>
+     <mode>HMD</mode>
+  </device>
+</clientdevice>
+<serverdevice>
+  <!--Configuration of the host device-->
+  <device Name="/host">
+     <IPaddress>192.168.1.2</IPaddress>
+     <port>8001</port>
+  </device>
+</serverdevice>
+</connecteddevice>
